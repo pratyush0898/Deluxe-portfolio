@@ -105,6 +105,14 @@ const CONTENT = {
 			linkText: "View Project",
 			link: "https://github.com/pratyush0898/Web-Scraper.git",
 		},
+  {
+    title: "Deluxe Portfolio",
+    description:
+      "A modern and premium template portfolio built with React and Tailwind CSS. Showcase your work and skills with this sleek design.",
+    logo: "React.png",
+    linkText: "View Project",
+    link: "https://github.com/pratyush0898/Deluxe-portfolio/",
+  }
 		{
 			title: "101 H1ML",
 			description:
